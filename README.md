@@ -87,7 +87,7 @@ places_search/
 
 ## License
 
-This plugin is licensed under the **GNU General Public License v2.0**.
+This plugin is licensed under the **MIT License**.
 
 ## Author
 
