@@ -9,7 +9,6 @@ PlacesSearch is a QGIS plugin that allows users to fetch places data from the Go
 - Search for places using Google Places API
 - Specify search keywords (e.g., "Hospital", "School", "Aged Care Service", "Nursing Home")
 - Select a polygon layer to define the search area
-- Automatically converts the CRS to EPSG:4326 if needed
 - Saves results as a Shapefile
 - Loads results into the QGIS project automatically
 
