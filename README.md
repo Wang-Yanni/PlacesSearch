@@ -45,7 +45,7 @@ PlacesSearch is a QGIS plugin that allows users to fetch places data from the Go
 
 ## Usage
 
-1. Open QGIS and load a polygon layer (must be in EPSG:4326 or will be converted).
+1. Open QGIS and load a polygon layer (must be in EPSG:4326).
 2. Click on the **Search Places** button in the toolbar.
 3. Enter your **Google API Key**.
 4. Specify **search keywords** (comma-separated).
@@ -63,7 +63,6 @@ You need a Google Places API Key to fetch places. You can obtain a key from: [Go
 Make sure the following API services are enabled:
 
 - **Places API**
-- **Geocoding API** (optional for additional features)
 
 ## Code Structure
 
